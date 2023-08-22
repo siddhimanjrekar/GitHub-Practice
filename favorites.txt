@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 foods
 1) pizza
 2) burger
 3) fries
-=======
 movies
 1) ddlj
 2) jab we met
 3) chennai express
->>>>>>> movies
